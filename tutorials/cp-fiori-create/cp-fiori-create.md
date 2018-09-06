@@ -25,7 +25,7 @@ Back in your SAP Cloud Platform cockpit, go to the **Services** page.
 
 ![service in Cloud Platform cockpit](1.png)
 
-In the search menu, search for **Fiori**.
+In the search menu, search for **Portal**.
 
 ![service search for Fiori](2.png)
 
