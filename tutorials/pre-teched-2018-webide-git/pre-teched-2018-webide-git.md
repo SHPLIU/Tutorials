@@ -175,9 +175,9 @@ In the **Push Changes to a remote branch** dialog box, select **origin/master**,
 
 [ACCORDION-BEGIN [Step 14: ](New file decorations)]
 
-You will see a confirmation alert appear briefly in the top-right corner of the SAP Web IDE window (just below **Logout**), and you will see the decorations change to the **green circles** indicating that the files in your project match the versions in the Git repository.
+You will see a confirmation alert appear briefly in the top-right corner of the SAP Web IDE window (just below **Logout**), and you will see the decorations change to the **blue circles** indicating that the files in your project match the versions in the Git repository.
 
-![green dots](te-2016-5-15.png)
+![blue dots](te-2016-5-15.png)
 
 
 [DONE]
